@@ -99,7 +99,7 @@ INSERT INTO SpotifyClone.cancoes (`fk_album_id`, `fk_cancao_artista`, `ano_de_la
 	(2, 'Queen', '1978', "Don't Stop Me Now", 203),
 	(3, 'Queen', '1982', "Under Pressure", 152),
 	(4, 'Elis Regina', '1998', "Como Nossos Pais", 105),
-	(5, 'Elis Regina', '2001', "O Medo de Amar é o Medo de Ser Livre", 107),
+	(5, 'Elis Regina', '2001', "O Medo de Amar é o Medo de Ser Livre", 207),
 	(6, 'Baco Exu do Blues', '2003', "Samba em Paris", 267),
 	(7, 'Blind Guardian', '2007', "The Bard's Song", 244),
 	(8, 'Nina Simone', '2012', "Feeling Good", 100);
